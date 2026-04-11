@@ -20,7 +20,7 @@ This work builds on recent discoveries about *Galleria mellonella* (the greater 
 
 ## View the Infographic
 
-Open `index.html` in any web browser to view the full infographic.
+Open `https://redex-101.github.io/` in any web browser to view the full infographic.
 
 ---
 
